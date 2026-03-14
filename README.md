@@ -94,8 +94,8 @@ http://localhost:3000
 
 ## 👩‍💻 Author
 
-**Parul Pal**  
-PHP Developer | React Learner
+**Piyush Pal**  
+ React Learner
 
 ---
 
